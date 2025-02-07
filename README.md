@@ -9,6 +9,7 @@ This is a starter template for a Nuxt.js application with integrated tools for t
 - **Testing Library / Vue** - A testing utility library for testing Vue components.
 - **TailwindCSS 4** - A utility-first CSS framework for designing modern UIs.
 - **GitHub Actions** - Continuous integration for automated builds and tests on GitHub.
+- **Eslint & Prettier** - Project uses latest approach: `@nuxt/eslint`
 
 ## Getting Started
 
